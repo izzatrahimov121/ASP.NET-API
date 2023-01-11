@@ -1,0 +1,45 @@
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.DataAccess\bin\Debug\net6.0\EduHome.DataAccess.deps.json
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.DataAccess\bin\Debug\net6.0\EduHome.DataAccess.dll
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.DataAccess\bin\Debug\net6.0\EduHome.DataAccess.pdb
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.DataAccess\bin\Debug\net6.0\EduHome.Core.dll
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.DataAccess\bin\Debug\net6.0\EduHome.Core.pdb
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.DataAccess\obj\Debug\net6.0\EduHome.DataAccess.csproj.AssemblyReference.cache
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.DataAccess\obj\Debug\net6.0\EduHome.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.DataAccess\obj\Debug\net6.0\EduHome.DataAccess.AssemblyInfoInputs.cache
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.DataAccess\obj\Debug\net6.0\EduHome.DataAccess.AssemblyInfo.cs
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.DataAccess\obj\Debug\net6.0\EduHome.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.DataAccess\obj\Debug\net6.0\EduHome.DataAccess.csproj.CopyComplete
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.DataAccess\obj\Debug\net6.0\EduHome.DataAccess.dll
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.DataAccess\obj\Debug\net6.0\refint\EduHome.DataAccess.dll
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.DataAccess\obj\Debug\net6.0\EduHome.DataAccess.pdb
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.DataAccess\obj\Debug\net6.0\ref\EduHome.DataAccess.dll
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.DataAccess\bin\Debug\net6.0\EduHome.DataAccess.deps.json
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.DataAccess\bin\Debug\net6.0\EduHome.DataAccess.dll
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.DataAccess\bin\Debug\net6.0\EduHome.DataAccess.pdb
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.DataAccess\bin\Debug\net6.0\EduHome.Core.dll
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.DataAccess\bin\Debug\net6.0\EduHome.Core.pdb
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.DataAccess\obj\Debug\net6.0\EduHome.DataAccess.csproj.AssemblyReference.cache
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.DataAccess\obj\Debug\net6.0\EduHome.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.DataAccess\obj\Debug\net6.0\EduHome.DataAccess.AssemblyInfoInputs.cache
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.DataAccess\obj\Debug\net6.0\EduHome.DataAccess.AssemblyInfo.cs
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.DataAccess\obj\Debug\net6.0\EduHome.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.DataAccess\obj\Debug\net6.0\EduHome.DataAccess.csproj.CopyComplete
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.DataAccess\obj\Debug\net6.0\EduHome.DataAccess.dll
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.DataAccess\obj\Debug\net6.0\refint\EduHome.DataAccess.dll
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.DataAccess\obj\Debug\net6.0\EduHome.DataAccess.pdb
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.DataAccess\obj\Debug\net6.0\ref\EduHome.DataAccess.dll
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.DataAccess\bin\Debug\net6.0\EduHome.DataAccess.deps.json
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.DataAccess\bin\Debug\net6.0\EduHome.DataAccess.dll
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.DataAccess\bin\Debug\net6.0\EduHome.DataAccess.pdb
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.DataAccess\bin\Debug\net6.0\EduHome.Core.dll
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.DataAccess\bin\Debug\net6.0\EduHome.Core.pdb
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.DataAccess\obj\Debug\net6.0\EduHome.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.DataAccess\obj\Debug\net6.0\EduHome.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.DataAccess\obj\Debug\net6.0\EduHome.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.DataAccess\obj\Debug\net6.0\EduHome.DataAccess.AssemblyInfo.cs
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.DataAccess\obj\Debug\net6.0\EduHome.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.DataAccess\obj\Debug\net6.0\EduHome.DataAccess.csproj.CopyComplete
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.DataAccess\obj\Debug\net6.0\EduHome.DataAccess.dll
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.DataAccess\obj\Debug\net6.0\refint\EduHome.DataAccess.dll
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.DataAccess\obj\Debug\net6.0\EduHome.DataAccess.pdb
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.DataAccess\obj\Debug\net6.0\ref\EduHome.DataAccess.dll

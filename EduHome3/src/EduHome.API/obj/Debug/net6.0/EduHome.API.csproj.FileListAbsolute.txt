@@ -1,0 +1,228 @@
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.API\obj\Debug\net6.0\EduHome.API.csproj.AssemblyReference.cache
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.API\obj\Debug\net6.0\EduHome.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.API\obj\Debug\net6.0\EduHome.API.AssemblyInfoInputs.cache
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.API\obj\Debug\net6.0\EduHome.API.AssemblyInfo.cs
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.API\obj\Debug\net6.0\EduHome.API.csproj.CoreCompileInputs.cache
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.API\obj\Debug\net6.0\EduHome.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.API\bin\Debug\net6.0\appsettings.json
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.API\bin\Debug\net6.0\EduHome.API.exe
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.API\bin\Debug\net6.0\EduHome.API.deps.json
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.API\bin\Debug\net6.0\EduHome.API.runtimeconfig.json
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.API\bin\Debug\net6.0\EduHome.API.dll
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.API\bin\Debug\net6.0\EduHome.API.pdb
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.API\bin\Debug\net6.0\EduHome.Core.dll
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.API\bin\Debug\net6.0\EduHome.DataAccess.dll
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.API\bin\Debug\net6.0\EduHome.DataAccess.pdb
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.API\bin\Debug\net6.0\EduHome.Core.pdb
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.API\obj\Debug\net6.0\staticwebassets\msbuild.EduHome.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.API\obj\Debug\net6.0\staticwebassets\msbuild.build.EduHome.API.props
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EduHome.API.props
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EduHome.API.props
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.API\obj\Debug\net6.0\scopedcss\bundle\EduHome.API.styles.css
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.API\obj\Debug\net6.0\EduHome.API.csproj.CopyComplete
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.API\obj\Debug\net6.0\EduHome.API.dll
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.API\obj\Debug\net6.0\refint\EduHome.API.dll
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.API\obj\Debug\net6.0\EduHome.API.pdb
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.API\obj\Debug\net6.0\EduHome.API.genruntimeconfig.cache
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.API\obj\Debug\net6.0\ref\EduHome.API.dll
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.API\bin\Debug\net6.0\EduHome.Business.dll
+C:\Users\ragim\OneDrive\İş masası\YEDEK\Документы\Visual Studio 2022\EduHome3\src\EduHome.API\bin\Debug\net6.0\EduHome.Business.pdb
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\appsettings.json
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\EduHome.API.exe
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\EduHome.API.deps.json
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\EduHome.API.runtimeconfig.json
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\EduHome.API.dll
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\EduHome.API.pdb
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\EduHome.Business.dll
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\EduHome.Core.dll
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\EduHome.DataAccess.dll
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\EduHome.Business.pdb
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\EduHome.DataAccess.pdb
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\EduHome.Core.pdb
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.API\obj\Debug\net6.0\EduHome.API.csproj.AssemblyReference.cache
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.API\obj\Debug\net6.0\EduHome.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.API\obj\Debug\net6.0\EduHome.API.AssemblyInfoInputs.cache
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.API\obj\Debug\net6.0\EduHome.API.AssemblyInfo.cs
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.API\obj\Debug\net6.0\EduHome.API.csproj.CoreCompileInputs.cache
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.API\obj\Debug\net6.0\EduHome.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.API\obj\Debug\net6.0\EduHome.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.API\obj\Debug\net6.0\staticwebassets\msbuild.EduHome.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.API\obj\Debug\net6.0\staticwebassets\msbuild.build.EduHome.API.props
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EduHome.API.props
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EduHome.API.props
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.API\obj\Debug\net6.0\scopedcss\bundle\EduHome.API.styles.css
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.API\obj\Debug\net6.0\EduHome.API.csproj.CopyComplete
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.API\obj\Debug\net6.0\EduHome.API.dll
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.API\obj\Debug\net6.0\refint\EduHome.API.dll
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.API\obj\Debug\net6.0\EduHome.API.pdb
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.API\obj\Debug\net6.0\EduHome.API.genruntimeconfig.cache
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.API\obj\Debug\net6.0\ref\EduHome.API.dll
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+<<<<<<< HEAD
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+=======
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\appsettings.json
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\EduHome.API.exe
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\EduHome.API.deps.json
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\EduHome.API.runtimeconfig.json
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\EduHome.API.dll
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\EduHome.API.pdb
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\EduHome.Business.dll
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\EduHome.Core.dll
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\EduHome.DataAccess.dll
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\EduHome.Business.pdb
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\EduHome.DataAccess.pdb
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\EduHome.Core.pdb
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.API\obj\Debug\net6.0\EduHome.API.csproj.AssemblyReference.cache
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.API\obj\Debug\net6.0\EduHome.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.API\obj\Debug\net6.0\EduHome.API.AssemblyInfoInputs.cache
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.API\obj\Debug\net6.0\EduHome.API.AssemblyInfo.cs
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.API\obj\Debug\net6.0\EduHome.API.csproj.CoreCompileInputs.cache
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.API\obj\Debug\net6.0\EduHome.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.API\obj\Debug\net6.0\EduHome.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.API\obj\Debug\net6.0\staticwebassets\msbuild.EduHome.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.API\obj\Debug\net6.0\staticwebassets\msbuild.build.EduHome.API.props
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EduHome.API.props
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EduHome.API.props
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.API\obj\Debug\net6.0\scopedcss\bundle\EduHome.API.styles.css
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.API\obj\Debug\net6.0\EduHome.API.csproj.CopyComplete
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.API\obj\Debug\net6.0\EduHome.API.dll
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.API\obj\Debug\net6.0\refint\EduHome.API.dll
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.API\obj\Debug\net6.0\EduHome.API.pdb
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.API\obj\Debug\net6.0\EduHome.API.genruntimeconfig.cache
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.API\obj\Debug\net6.0\ref\EduHome.API.dll
+>>>>>>> dd5eed9d6e25012766e10a7fbc7673a7b31b278d
