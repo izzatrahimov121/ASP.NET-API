@@ -106,12 +106,12 @@
         },
         "compile": {
           "ref/netcoreapp3.1/Microsoft.Data.SqlClient.dll": {
-            "related": ".pdb;.xml"
+            "related": ".xml;.pdb"
           }
         },
         "runtime": {
           "lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll": {
-            "related": ".pdb;.xml"
+            "related": ".xml;.pdb"
           }
         },
         "runtimeTargets": {
@@ -2117,19 +2117,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Izzet\\.nuget\\packages\\": {}
+    "C:\\Users\\ragim\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Izzet\\OneDrive\\Desktop\\ASP.NET-API\\EduHome3\\src\\EduHome.Business\\EduHome.Business.csproj",
+      "projectUniqueName": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.NET-API\\EduHome3\\src\\EduHome.Business\\EduHome.Business.csproj",
       "projectName": "EduHome.Business",
-      "projectPath": "C:\\Users\\Izzet\\OneDrive\\Desktop\\ASP.NET-API\\EduHome3\\src\\EduHome.Business\\EduHome.Business.csproj",
-      "packagesPath": "C:\\Users\\Izzet\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Izzet\\OneDrive\\Desktop\\ASP.NET-API\\EduHome3\\src\\EduHome.Business\\obj\\",
+      "projectPath": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.NET-API\\EduHome3\\src\\EduHome.Business\\EduHome.Business.csproj",
+      "packagesPath": "C:\\Users\\ragim\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.NET-API\\EduHome3\\src\\EduHome.Business\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Izzet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ragim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2143,11 +2148,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Izzet\\OneDrive\\Desktop\\ASP.NET-API\\EduHome3\\src\\EduHome.Core\\EduHome.Core.csproj": {
-              "projectPath": "C:\\Users\\Izzet\\OneDrive\\Desktop\\ASP.NET-API\\EduHome3\\src\\EduHome.Core\\EduHome.Core.csproj"
+            "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.NET-API\\EduHome3\\src\\EduHome.Core\\EduHome.Core.csproj": {
+              "projectPath": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.NET-API\\EduHome3\\src\\EduHome.Core\\EduHome.Core.csproj"
             },
-            "C:\\Users\\Izzet\\OneDrive\\Desktop\\ASP.NET-API\\EduHome3\\src\\EduHome.DataAccess\\EduHome.DataAccess.csproj": {
-              "projectPath": "C:\\Users\\Izzet\\OneDrive\\Desktop\\ASP.NET-API\\EduHome3\\src\\EduHome.DataAccess\\EduHome.DataAccess.csproj"
+            "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.NET-API\\EduHome3\\src\\EduHome.DataAccess\\EduHome.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.NET-API\\EduHome3\\src\\EduHome.DataAccess\\EduHome.DataAccess.csproj"
             }
           }
         }
@@ -2194,5 +2199,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.NET-API\\EduHome3\\src\\EduHome.Business\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

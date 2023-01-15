@@ -1,5 +1,6 @@
 ﻿using AutoMapper;
 using EduHome.Business.DTOs.Courses;
+using EduHome.Business.Exceptions;
 using EduHome.Business.Services.Interfaces;
 using EduHome.Core.Entities;
 using EduHome.DataAccess.Repositories.Interfaces;
@@ -9,7 +10,10 @@ using System.Linq.Expressions;
 namespace EduHome.Business.Services.Implementations;
 
 public class CourseServise : ICourseServise
-{ 
+{
+
+
+
 	private readonly ICourseRepository _courseRepository;
 	private readonly IMapper _mapper;
 
@@ -21,6 +25,8 @@ public class CourseServise : ICourseServise
 
 
 
+
+
 	public async Task<List<CourseDto>> FindAllAsync()
 	{
 		var courses = await _courseRepository.FindAll().ToListAsync();
@@ -28,15 +34,37 @@ public class CourseServise : ICourseServise
 		return resultCourses;
 	}
 
-	public Task<List<Course>> FindByCondition(Expression<Func<Course, bool>> expression, bool IsTracking = true)
+
+
+
+
+	public async Task<List<CourseDto>> FindByConditionAsync(Expression<Func<Course, bool>> expression)
 	{
-		throw new NotImplementedException();
+		var courses = await _courseRepository.FindByCondition(expression).ToListAsync();
+		var resultCourses = _mapper.Map<List<CourseDto>>(courses);
+		return resultCourses;
 	}
 
-	public Task<Course?> FindById(int id)
+
+
+
+
+
+	public async Task<CourseDto?> FindByIdAsync(int id)
 	{
-		throw new NotImplementedException();
+		var course = _courseRepository.FindByIdAsync(id);
+		if (course == null)
+		{
+			throw new NotFoundException("not found");
+		}
+
+		return _mapper.Map<CourseDto?>(course);
 	}
+
+
+
+
+
 
 	public async Task CreateAsync(CoursePostDto course)
 	{
@@ -46,15 +74,47 @@ public class CourseServise : ICourseServise
 		await _courseRepository.SaveAsync();
 	}
 
-	public void Delete(Course entity)
+
+
+
+
+
+	public async Task Delete(int id)
 	{
-		throw new NotImplementedException();
+		var baseCourse = await _courseRepository.FindByIdAsync(id);
+
+		if (baseCourse == null)
+		{
+			throw new NotFoundException("Not Found.");
+		}
+
+		_courseRepository.Delete(baseCourse);
+		await _courseRepository.SaveAsync();
 	}
 
 
 
-	public void Update(Course entity)
+
+
+	public async Task UpdateAsync(int id,CourseUpdateDto course)
 	{
-		throw new NotImplementedException();
+		//if (id!=course.Id)
+		//{
+		//	throw new BadRequestException("Enter valid ID.");
+		//}
+		var baseCourse = await _courseRepository.FindByIdAsync(id);
+
+		if (baseCourse == null)
+		{
+			throw new NotFoundException("Not Found.");
+		}
+
+		var updateCourse = _mapper.Map<Course>(course);
+		_courseRepository.Update(updateCourse);
+		await _courseRepository.SaveAsync();
 	}
+
+
+
+
 }

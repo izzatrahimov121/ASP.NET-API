@@ -26,11 +26,75 @@ namespace EduHome.API.Controllers
 				var courses = await _courseServise.FindAllAsync();
 				return Ok(courses);
 			}
-			catch (NotFaundException ex)
+			catch (NotFoundException ex)
 			{
-				return NotFound(ex.Message); 
+				return NotFound(ex.Message);
 			}
 		}
+
+
+		[HttpGet("{id}")]
+		public async Task<IActionResult> GetById(int id)
+		{
+			try
+			{
+				var course = _courseServise.FindByIdAsync(id);
+				return Ok(course);
+			}
+			catch (NotFoundException ex)
+			{
+				return NotFound(ex.Message);
+			}
+			catch (FormatException ex)
+			{
+				return BadRequest(ex.Message);
+			}
+			catch (Exception)
+			{
+				return StatusCode((int)HttpStatusCode.InternalServerError);
+			}
+		}
+
+
+		[HttpGet("searchByName/{Name}")]
+		public async Task<IActionResult> GetByName(string name)
+		{
+			try
+			{
+				var result = await _courseServise.FindByConditionAsync(n => n.Name !=null ? n.Name.Contains(name) : true);
+				return Ok(result);
+			}
+			catch (Exception)
+			{
+				return StatusCode((int)HttpStatusCode.InternalServerError);
+			}
+		}
+
+		#region Update
+		[HttpPut("id")]
+		public async Task<IActionResult> Put(int id,CourseUpdateDto course)
+		{
+			try
+			{
+				await _courseServise.UpdateAsync(id,course);
+				return NoContent();
+			}
+			catch (BadRequestException ex)
+			{
+				return BadRequest(ex.Message);
+			}
+			catch(NotFoundException ex)
+			{
+				return NotFound(ex.Message);
+			}
+			catch(Exception)
+			{
+				return StatusCode((int)HttpStatusCode.InternalServerError);
+			}
+		}
+		#endregion
+
+		#region Created
 
 		[HttpPost("")]
 		public async Task<IActionResult> Post(CoursePostDto course)
@@ -46,5 +110,33 @@ namespace EduHome.API.Controllers
 			}
 
 		}
+		#endregion
+
+		#region Delete
+		[HttpDelete("{id}")]
+		public async Task<IActionResult> Delete(int id)
+		{
+			try
+			{
+				await _courseServise.Delete(id);
+				return Ok("Deleted");
+			}
+			catch (NotFoundException ex)
+			{
+				return NotFound(ex.Message);
+			}
+			catch (FormatException ex)
+			{
+				return BadRequest(ex.Message);
+			}
+			catch (Exception)
+			{
+				return StatusCode((int)HttpStatusCode.InternalServerError);
+			}
+		}
+		#endregion
+
+
+
 	}
 }

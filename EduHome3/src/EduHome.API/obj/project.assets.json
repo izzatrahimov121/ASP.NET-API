@@ -119,12 +119,12 @@
         },
         "compile": {
           "ref/netcoreapp3.1/Microsoft.Data.SqlClient.dll": {
-            "related": ".pdb;.xml"
+            "related": ".xml;.pdb"
           }
         },
         "runtime": {
           "lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll": {
-            "related": ".pdb;.xml"
+            "related": ".xml;.pdb"
           }
         },
         "runtimeTargets": {
@@ -538,12 +538,12 @@
         "type": "package",
         "compile": {
           "lib/netstandard2.0/Microsoft.OpenApi.dll": {
-            "related": ".pdb;.xml"
+            "related": ".xml;.pdb"
           }
         },
         "runtime": {
           "lib/netstandard2.0/Microsoft.OpenApi.dll": {
-            "related": ".pdb;.xml"
+            "related": ".xml;.pdb"
           }
         }
       },
@@ -615,12 +615,12 @@
         },
         "compile": {
           "lib/net6.0/Swashbuckle.AspNetCore.Swagger.dll": {
-            "related": ".pdb;.xml"
+            "related": ".xml;.pdb"
           }
         },
         "runtime": {
           "lib/net6.0/Swashbuckle.AspNetCore.Swagger.dll": {
-            "related": ".pdb;.xml"
+            "related": ".xml;.pdb"
           }
         },
         "frameworkReferences": [
@@ -634,12 +634,12 @@
         },
         "compile": {
           "lib/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll": {
-            "related": ".pdb;.xml"
+            "related": ".xml;.pdb"
           }
         },
         "runtime": {
           "lib/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll": {
-            "related": ".pdb;.xml"
+            "related": ".xml;.pdb"
           }
         }
       },
@@ -647,12 +647,12 @@
         "type": "package",
         "compile": {
           "lib/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {
-            "related": ".pdb;.xml"
+            "related": ".xml;.pdb"
           }
         },
         "runtime": {
           "lib/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {
-            "related": ".pdb;.xml"
+            "related": ".xml;.pdb"
           }
         },
         "frameworkReferences": [
@@ -2414,19 +2414,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Izzet\\.nuget\\packages\\": {}
+    "C:\\Users\\ragim\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Izzet\\OneDrive\\Desktop\\ASP.NET-API\\EduHome3\\src\\EduHome.API\\EduHome.API.csproj",
+      "projectUniqueName": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.NET-API\\EduHome3\\src\\EduHome.API\\EduHome.API.csproj",
       "projectName": "EduHome.API",
-      "projectPath": "C:\\Users\\Izzet\\OneDrive\\Desktop\\ASP.NET-API\\EduHome3\\src\\EduHome.API\\EduHome.API.csproj",
-      "packagesPath": "C:\\Users\\Izzet\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Izzet\\OneDrive\\Desktop\\ASP.NET-API\\EduHome3\\src\\EduHome.API\\obj\\",
+      "projectPath": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.NET-API\\EduHome3\\src\\EduHome.API\\EduHome.API.csproj",
+      "packagesPath": "C:\\Users\\ragim\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.NET-API\\EduHome3\\src\\EduHome.API\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Izzet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ragim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2440,11 +2445,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Izzet\\OneDrive\\Desktop\\ASP.NET-API\\EduHome3\\src\\EduHome.Business\\EduHome.Business.csproj": {
-              "projectPath": "C:\\Users\\Izzet\\OneDrive\\Desktop\\ASP.NET-API\\EduHome3\\src\\EduHome.Business\\EduHome.Business.csproj"
+            "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.NET-API\\EduHome3\\src\\EduHome.Business\\EduHome.Business.csproj": {
+              "projectPath": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.NET-API\\EduHome3\\src\\EduHome.Business\\EduHome.Business.csproj"
             },
-            "C:\\Users\\Izzet\\OneDrive\\Desktop\\ASP.NET-API\\EduHome3\\src\\EduHome.DataAccess\\EduHome.DataAccess.csproj": {
-              "projectPath": "C:\\Users\\Izzet\\OneDrive\\Desktop\\ASP.NET-API\\EduHome3\\src\\EduHome.DataAccess\\EduHome.DataAccess.csproj"
+            "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.NET-API\\EduHome3\\src\\EduHome.DataAccess\\EduHome.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.NET-API\\EduHome3\\src\\EduHome.DataAccess\\EduHome.DataAccess.csproj"
             }
           }
         }

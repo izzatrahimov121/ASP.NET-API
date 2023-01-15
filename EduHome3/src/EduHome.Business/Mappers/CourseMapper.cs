@@ -10,5 +10,6 @@ public class CourseMapper : Profile
 	{
 		CreateMap<Course, CourseDto>().ReverseMap();
 		CreateMap<CoursePostDto, Course>().ReverseMap();
+		CreateMap<CourseUpdateDto, Course>().ReverseMap();
 	}
 }
