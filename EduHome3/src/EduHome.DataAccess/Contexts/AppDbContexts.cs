@@ -1,10 +1,12 @@
 ﻿using EduHome.Core.Entities;
+using EduHome.Core.Entities.Identity;
 using EduHome.DataAccess.Configurations;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
 namespace EduHome.DataAccess.Contexts
 {
-	public class AppDbContexts : DbContext
+	public class AppDbContexts : IdentityDbContext<AppUser>
 	{
 		public AppDbContexts(DbContextOptions<AppDbContexts> options) : base(options)
 		{
