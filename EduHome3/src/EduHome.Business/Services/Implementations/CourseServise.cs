@@ -52,13 +52,14 @@ public class CourseServise : ICourseServise
 
 	public async Task<CourseDto?> FindByIdAsync(int id)
 	{
-		var course = _courseRepository.FindByIdAsync(id);
+		var course = await _courseRepository.FindByIdAsync(id);
 		if (course == null)
 		{
 			throw new NotFoundException("not found");
 		}
 
-		return _mapper.Map<CourseDto?>(course);
+		var courseDTO = _mapper.Map<CourseDto>(course);
+		return courseDTO;
 	}
 
 
@@ -98,11 +99,11 @@ public class CourseServise : ICourseServise
 
 	public async Task UpdateAsync(int id,CourseUpdateDto course)
 	{
-		//if (id!=course.Id)
-		//{
-		//	throw new BadRequestException("Enter valid ID.");
-		//}
-		var baseCourse = await _courseRepository.FindByIdAsync(id);
+		if (id != course.Id)
+		{
+			throw new BadRequestException("Enter valid ID.");
+		}
+		var baseCourse = _courseRepository.FindByCondition(c => c.Id == id);
 
 		if (baseCourse == null)
 		{

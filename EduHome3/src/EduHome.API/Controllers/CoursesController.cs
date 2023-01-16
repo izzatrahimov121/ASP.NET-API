@@ -1,7 +1,6 @@
 ﻿using EduHome.Business.DTOs.Courses;
 using EduHome.Business.Exceptions;
 using EduHome.Business.Services.Interfaces;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System.Net;
 
@@ -38,7 +37,7 @@ namespace EduHome.API.Controllers
 		{
 			try
 			{
-				var course = _courseServise.FindByIdAsync(id);
+				var course = await _courseServise.FindByIdAsync(id);    
 				return Ok(course);
 			}
 			catch (NotFoundException ex)
@@ -56,7 +55,7 @@ namespace EduHome.API.Controllers
 		}
 
 
-		[HttpGet("searchByName/{Name}")]
+		[HttpGet("searchByName/{name}")]
 		public async Task<IActionResult> GetByName(string name)
 		{
 			try
