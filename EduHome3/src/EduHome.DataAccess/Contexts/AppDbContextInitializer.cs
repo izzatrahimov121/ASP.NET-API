@@ -48,14 +48,12 @@ public class AppDbContextInitializer
 	{
 		AppUser admin = new AppUser
 		{
-			UserName = _configuration["AdminSettings: UserName"],
-			Email = _configuration["AdminSettings: Email"],
+			UserName = _configuration["AdminSettings:UserName"],
+			Email = _configuration["AdminSettings:Email"]
 		};
 
-		//if (_userManager.Users.Any(u => u.UserName != admin.UserName))
-		//{
-			await _userManager.CreateAsync(admin, _configuration["AdminSettings: Password"]);
-			await _userManager.AddToRoleAsync(admin, Roles.Admin.ToString());
-		//}
+		await _userManager.CreateAsync(admin, _configuration["AdminSettings:Password"]);
+		await _userManager.AddToRoleAsync(admin, Roles.Admin.ToString());
+		
 	}
 }

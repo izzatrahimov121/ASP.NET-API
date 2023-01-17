@@ -12,7 +12,7 @@ namespace EduHome.DataAccess.Contexts
 		{
 		}
 
-		DbSet<Course> Courses { get; set; }
+		public DbSet<Course> Courses { get; set; } = null!;
 		protected override void OnModelCreating(ModelBuilder modelBuilder)
 		{
 			modelBuilder.ApplyConfigurationsFromAssembly(typeof(CourseConfiguration).Assembly);

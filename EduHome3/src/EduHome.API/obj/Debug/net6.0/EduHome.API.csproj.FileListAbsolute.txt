@@ -159,3 +159,8 @@ C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.API\bin\De
 C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
 C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
 C:\Users\ragim\OneDrive\İş masası\ASP.NET-API\EduHome3\src\EduHome.API\obj\Debug\net6.0\EduHome.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Izzet\OneDrive\Desktop\ASP.NET-API\EduHome3\src\EduHome.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll

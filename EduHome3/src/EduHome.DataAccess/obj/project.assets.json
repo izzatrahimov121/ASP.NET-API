@@ -73,12 +73,12 @@
         },
         "compile": {
           "ref/netcoreapp3.1/Microsoft.Data.SqlClient.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         },
         "runtime": {
           "lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         },
         "runtimeTargets": {
@@ -2103,24 +2103,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ragim\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Izzet\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.NET-API\\EduHome3\\src\\EduHome.DataAccess\\EduHome.DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\Izzet\\OneDrive\\Desktop\\ASP.NET-API\\EduHome3\\src\\EduHome.DataAccess\\EduHome.DataAccess.csproj",
       "projectName": "EduHome.DataAccess",
-      "projectPath": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.NET-API\\EduHome3\\src\\EduHome.DataAccess\\EduHome.DataAccess.csproj",
-      "packagesPath": "C:\\Users\\ragim\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.NET-API\\EduHome3\\src\\EduHome.DataAccess\\obj\\",
+      "projectPath": "C:\\Users\\Izzet\\OneDrive\\Desktop\\ASP.NET-API\\EduHome3\\src\\EduHome.DataAccess\\EduHome.DataAccess.csproj",
+      "packagesPath": "C:\\Users\\Izzet\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Izzet\\OneDrive\\Desktop\\ASP.NET-API\\EduHome3\\src\\EduHome.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\ragim\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Izzet\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2134,8 +2129,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.NET-API\\EduHome3\\src\\EduHome.Core\\EduHome.Core.csproj": {
-              "projectPath": "C:\\Users\\ragim\\OneDrive\\İş masası\\ASP.NET-API\\EduHome3\\src\\EduHome.Core\\EduHome.Core.csproj"
+            "C:\\Users\\Izzet\\OneDrive\\Desktop\\ASP.NET-API\\EduHome3\\src\\EduHome.Core\\EduHome.Core.csproj": {
+              "projectPath": "C:\\Users\\Izzet\\OneDrive\\Desktop\\ASP.NET-API\\EduHome3\\src\\EduHome.Core\\EduHome.Core.csproj"
             }
           }
         }

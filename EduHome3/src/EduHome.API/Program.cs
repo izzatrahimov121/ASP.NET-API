@@ -29,13 +29,7 @@ builder.Services.AddDbContext<AppDbContexts>(opt =>
 	opt.UseSqlServer(builder.Configuration.GetConnectionString("Default"));
 });
 
-builder.Services.AddIdentity<AppUser, IdentityRole>(opt =>
-{
-	opt.Password.RequireLowercase = true;
-	opt.Password.RequiredLength = 8;//yazmasaq default = 6
-	opt.Password.RequireUppercase = true;
-	opt.Password.RequireDigit = true;
-})
+builder.Services.AddIdentity<AppUser, IdentityRole>()
 	.AddDefaultTokenProviders()
 	.AddEntityFrameworkStores<AppDbContexts>();
 
@@ -46,6 +40,7 @@ builder.Services.AddAutoMapper(typeof(CourseMapper).Assembly);
 builder.Services.AddScoped<ICourseRepository, CourseRepository>();
 builder.Services.AddScoped<ICourseServise, CourseServise>();
 builder.Services.AddScoped<AppDbContextInitializer>();
+builder.Services.AddScoped<IAuthServise, AuthServise>();
 
 
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
